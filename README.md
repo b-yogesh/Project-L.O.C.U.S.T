@@ -1,5 +1,7 @@
 # Project-L.L.O.C.U.S.T
 
+This project was declared as the [Global Winner](https://2020.spaceappschallenge.org/challenges/inform/automated-detection-hazards/teams/project-llocust-1/project) of NASA SpaceApps Hacakthon 2020 
+
 This project was developed by a diverse team of coders, ML enthusiasts, story-tellers and UI/UX developers as a part of submission for the [NASA's SpaceApp Challenge 2020 Hackathon](https://www.spaceappschallenge.org/)
 
 ![L L O C U S T_Logo](https://user-images.githubusercontent.com/22027039/95028169-99ced300-069e-11eb-9f1c-0b7dbad9f120.png)
